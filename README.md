@@ -1,73 +1,80 @@
-# Hi 👋, I'm Pankaj Ranjan Sinha
+<h1 align="center">Hi 👋, I'm Pankaj Ranjan Sinha</h1>
+<h3 align="center">🚀 React + AI Developer | Building AI-powered Apps</h3>
 
-💻 React + AI Developer | Building AI-powered web applications  
-🚀 Passionate about creating scalable and intelligent products  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=React+Developer;AI+App+Builder;MERN+Stack+Developer;LLM+Enthusiast" />
+</p>
 
 ---
 
 ## 🧠 About Me
-- 🔭 Currently working on **AI Chat Apps & SaaS Projects**
-- 🌱 Learning **Advanced AI Integration & System Design**
-- 💡 Interested in **LLM, Prompt Engineering & Automation**
-- 🎯 Goal: Become a **Top AI Product Developer**
+- 🔭 Working on **AI Chat Apps & SaaS Platforms**
+- 🌱 Learning **Advanced AI + System Design**
+- 🤖 Exploring **Gemini API & OpenAI**
+- 🎯 Goal: **Top AI Product Developer**
 
 ---
 
 ## ⚡ Tech Stack
 
-### 👨‍💻 Frontend
-- React.js
-- JavaScript (ES6+)
-- HTML5, CSS3
+<p align="center">
 
-### ⚙️ Backend
-- Node.js
-- Express.js
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,html,css,git,github,vscode" />
 
-### 🗄️ Database
-- MongoDB
+</p>
 
-### 🤖 AI Skills
+---
+
+## 🤖 AI Skills
 - Gemini API (Google GenAI)
 - OpenAI API
 - Prompt Engineering
-- Streaming Responses
-
-### 🛠 Tools
-- Git & GitHub
-- Postman
-- VS Code
+- Streaming Response Handling
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔥 AI Chat App
-- Real-time chat using AI (Gemini/OpenAI)
-- Streaming response support
-- Chat history with MongoDB
+- ChatGPT-like UI
+- Streaming response
+- MongoDB chat storage
 
 ### ✍️ AI Content Generator
-- Blog, YouTube Script & Hashtag Generator
-- Fast and clean UI
+- Blog & Script Generator
+- Hashtag generator
 
-### 📊 AI SaaS Dashboard (Coming Soon)
-- User authentication
+### 📊 AI SaaS Dashboard *(Coming Soon)*
+- Auth system
 - Credit system
 - Usage tracking
 
 ---
 
-## 📈 GitHub Stats
-![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=corepankaj&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=corepankaj&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=corepankaj&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: corepankaj@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/pankaj-ranjan-sinha-5576bb1b
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/pankaj-ranjan-sinha-5576bb1b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:corepankaj@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+</p>
 
 ---
 
-## 💡 Fun Fact
-👉 I don’t just build apps, I build **AI-powered experiences** 🚀
+## 🧨 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=corepankaj&label=Profile%20views&color=blue&style=flat" />
+</p>
+
+---
+
+## 💡 Quote
+> “I don’t just build apps, I build AI-powered experiences 🚀”
