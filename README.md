@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Ranjan Sinha</h1>
-<h3 align="center">🚀 React + AI Developer | Building AI-powered Apps</h3>
+<h3 align="center">🚀 React Developer | MERN Stack Developer | Frontend Developer | Building AI-powered Apps</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=React+Developer;AI+App+Builder;MERN+Stack+Developer;LLM+Enthusiast" />
